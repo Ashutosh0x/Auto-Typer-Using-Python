@@ -3,6 +3,11 @@
 ## Overview
 This Python program provides a simple graphical user interface (GUI) for automating typing tasks. It allows users to load a text file and simulate typing the content of that file onto the screen.
 
+
+
+https://github.com/Ashutosh0x/Auto-Typer-Using-Python/assets/161562995/f6f6f912-1205-4017-a987-3cbbe41df5b6
+
+
 ## Features
 - **File Loading:** Users can browse and select a text file containing the content they want to type.
 - **Error Handling:** If the selected file cannot be read due to Unicode decoding issues, an error message is displayed.
